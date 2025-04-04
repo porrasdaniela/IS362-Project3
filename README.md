@@ -2,9 +2,9 @@
 
 ## Chinook Database Analysis
 
-Overview - This project demonstrates how to connect to a relational database using Python and analyze data from the Chinook SQLite database, which simulates a digital music store. The analysis includes retrieving customer purchase data, performing SQL joins across multiple tables, and visualizing results using pandas and matplotlib.
+#Overview - This project demonstrates how to connect to a relational database using Python and analyze data from the Chinook SQLite database, which simulates a digital music store. The analysis includes retrieving customer purchase data, performing SQL joins across multiple tables, and visualizing results using pandas and matplotlib.
 
-Objectives
+#Objectives
 *Connect to the Chinook SQLite database using Python
 
 *Write and execute a SQL query that joins five related tables: Customer, Invoice, InvoiceLine, Track, and Album
@@ -15,18 +15,18 @@ Objectives
 
 *Demonstrate database interaction and data storytelling using Python
 
-Technologies Used
---SQLite (relational database)
+#Technologies Used
+- SQLite (relational database)
 
---Python
+- Python
 
---pandas
+- pandas
 
---matplotlib
+- matplotlib
 
---Jupyter Notebook
+- Jupyter Notebook
 
-Key Insights 
+#Key Insights 
 The project showcases how to extract meaningful data by combining information from different tables in a normalized database.
 
 The most frequently purchased tracks were visualized, providing insight into customer preferences.
