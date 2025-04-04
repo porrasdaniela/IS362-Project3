@@ -16,17 +16,17 @@ Objectives
 *Demonstrate database interaction and data storytelling using Python
 
 Technologies Used
--SQLite (relational database)
+--SQLite (relational database)
 
--Python
+--Python
 
--pandas
+--pandas
 
--matplotlib
+--matplotlib
 
--Jupyter Notebook
+--Jupyter Notebook
 
-Key Insights
+Key Insights 
 The project showcases how to extract meaningful data by combining information from different tables in a normalized database.
 
 The most frequently purchased tracks were visualized, providing insight into customer preferences.
